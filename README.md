@@ -1,2 +1,2 @@
 # ExerciceGitNantes
-Projet d'exercice pour la formation git à Nantes
+Projet d'exercice pour la formation Git à Nantes
